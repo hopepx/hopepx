@@ -6,7 +6,7 @@
 - 🔭 I just launched my first chatbot: [Link to Chatbot](https://hopeparadoxsolosgmailcom.intelaedu.com/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to improve in my knowledge for coding
-- 🥅 2021 Goals: Have more time to play games😭
+- 🥅 2021 Goals: Have more time to take more online courses😭
 - ⚡ Fun fact:  I spend almost 5 hours reading manga everyday
 
 ### Connect with me:
