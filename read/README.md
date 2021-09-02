@@ -1,15 +1,13 @@
-### Hi there, I'm Xue Wen - aka [hopepx](https://hopeparadoxsolos.wixsite.com/tanxuewen) 👋
+### Hi there, I'm Tan Xue Wen - aka [hopepx](https://hopeparadoxsolos.wixsite.com/tanxuewen) 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Instagram Follow](https://img.shields.io/instagram/follow/https://www.instagram.com/xuew3n/
+[![Website](https://img.shields.io/website?label=https://hopeparadoxsolos.wixsite.com/tanxuewen&style=for-the-badge&url=https%3A%2F%2Fhttps://hopeparadoxsolos.wixsite.com/tanxuewen)](https://hopeparadoxsolos.wixsite.com/tanxuewen)
+## I'm a Cyber Security Student, Programmer, and Cryptocurrency Trader!!
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first chatbot: [Link to Chatbot](https://hopeparadoxsolosgmailcom.intelaedu.com/)!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to improve in my knowledge for coding
+- 🥅 2021 Goals: Have more time to play games😭
+- ⚡ Fun fact:  I spend almost 5 hours reading manga everyday
 
 ### Connect with me:
 
