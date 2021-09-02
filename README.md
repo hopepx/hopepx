@@ -11,10 +11,10 @@
 
 ### Connect with me:
 <a href="https://www.youtube.com/c/hopepx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hopepx" height="30" width="40" /></a>
-<a href="https://fb.com/melvintanxuewen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="melvintanxuewen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/melvintanxuewen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvintanxuewen" height="30" width="40" /></a>
-<a href="https://instagram.com/xuew3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xuew3n" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/kuilty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kuilty" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tan.xuewen02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="melvintanxuewen" height="30" width="40" /></a>
+<a href="https://www.instagram.com/xuew3n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xuew3n" height="30" width="40" /></a>
+<a href="https://twitter.com/kuilty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kuilty" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
