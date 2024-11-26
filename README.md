@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=https://hopeparadoxsolos.wixsite.com/tanxuewen&style=for-the-badge&url=https%3A%2F%2Fhttps://hopeparadoxsolos.wixsite.com/tanxuewen)](https://hopeparadoxsolos.wixsite.com/tanxuewen)
 ## I'm a Cyber Security Student, Programmer, and Cryptocurrency Trader!!
 
-- 🔭 I just launched my first chatbot: [Link to Chatbot]([https://hopepx.github.io/Asg2/]https://hopepx.github.io/Asg2/!
+- 🔭 I just launched my first chatbot: [Link to Chatbot](https://hopepx.github.io/Asg2/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to improve in my knowledge for coding
 - 🥅 2021 Goals: Have more time to take more online courses😭
